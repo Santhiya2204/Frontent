@@ -65,10 +65,15 @@ Ensure you have the following installed:
 
 {
   "name": "John Doe",
+  
   "email": "johndoe@example.com",
+  
   "phone": "+1234567890",
+  
   "role": "Bank Teller",
+  
   "experience": "5 years",
+  
   "resume": "johndoe_resume.pdf"
 }
 
